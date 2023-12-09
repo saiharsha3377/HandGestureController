@@ -20,11 +20,7 @@
 ## Activate Controller
 ![Alt text](Activate_Cursor.png)
 
-## Right Click
-![Alt text](Right_Click.png)
 
-## Left Click
-![Alt text](Left_Click.png)
 
 ## Double Click
 ![Alt text](Double_Click.png)
