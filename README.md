@@ -114,5 +114,6 @@ To deploy the code, follow these steps:
 
 • Ensure a webcam is connected and accessible.
 
+YouTube Link: https://youtu.be/qZ7cHJWqO8A?feature=shared
 
 Thank you!❤️
